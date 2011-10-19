@@ -16,6 +16,7 @@
  -->
 
 <resource-redirections>
+    <item name="drawable/battery_bar">@drawable/com_android_systemui_battery_bar</item>
     <item name="drawable/battery_low_battery">@drawable/com_android_systemui_battery_low_battery</item>
     <item name="drawable/stat_sys_wifi_signal_4_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_4_fully</item>
     <item name="drawable/stat_sys_wifi_signal_3_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_3_fully</item>
